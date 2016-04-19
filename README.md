@@ -16,7 +16,7 @@ Have a look at https://guides.github.com/activities/contributing-to-open-source/
 
 Basically it's about this:
  1. If applicable create a [Jira issue](https://issues.jenkins-ci.org/browse/JENKINS/component/18134)
- ..* Make sure a similar issue to the one you want to create doesn't exist
+    + Make sure a similar issue to the one you want to create doesn't exist
  2. [Fork](https://github.com/jesperps/delivery-pipeline-plugin/edit/contributionsguide/README.md#fork-destination-box) the repo
  3. Do contributions
  4. Add as much unit testing as possible to the contribution, this will make the code much more easy to maintain
