@@ -15,13 +15,13 @@ How to contribute
 Have a look at https://guides.github.com/activities/contributing-to-open-source/#contributing
 
 Basically it's about this:
-1. If applicable create a [Jira issue](https://issues.jenkins-ci.org/browse/JENKINS/component/18134)
-2. [Fork](https://github.com/jesperps/delivery-pipeline-plugin/edit/contributionsguide/README.md#fork-destination-box) the repo
-3. Do contributions
-4. Add as much unit testing as possible to the contribution, this will make the code much more easy to maintain
-5. Make sure to add the Jira issue number in the commit message together with a descriptive
-6. If you have multiple commits, please make sure to squash them before creating a pull request, it's hard to read contributions when they are scattered across several commits
-7. Create a pull request to get feedback from the maintainers
+ 1. If applicable create a [Jira issue](https://issues.jenkins-ci.org/browse/JENKINS/component/18134)
+ 2. [Fork](https://github.com/jesperps/delivery-pipeline-plugin/edit/contributionsguide/README.md#fork-destination-box) the repo
+ 3. Do contributions
+ 4. Add as much unit testing as possible to the contribution, this will make the code much more easy to maintain
+ 5. Make sure to add the Jira issue number in the commit message together with a descriptive
+ 6. If you have multiple commits, please make sure to squash them before creating a pull request, it's hard to read contributions when they are scattered across several commits
+ 7. Create a pull request to get feedback from the maintainers
 
 Build
 ---
