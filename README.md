@@ -10,6 +10,20 @@ For info see the [Delivery Pipeline Plugin - Wiki](https://wiki.jenkins-ci.org/d
 
 Contributed by [Diabol AB](http://www.diabol.se)
 
+How to contribute
+---
+Have a look at https://guides.github.com/activities/contributing-to-open-source/#contributing
+
+Basically it's about:
+
+	1. If applicable create an issue
+	2. Fork the repo
+	3. Do contributions
+	4. Add as much unit testing as possible to the contribution, this will make the code much more easy to maintain
+	5. Make sure to add the Jira issue number in the commit message together with a descriptive
+	6. If you have multiple commits, please make sure to squash them before creating a pull request, it's hard to read contributions when they are scattered across several commits
+	7. Create a pull request to get feedback from the maintainers
+
 Build
 ---
 
