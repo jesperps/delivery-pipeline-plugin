@@ -16,8 +16,8 @@ Have a look at https://guides.github.com/activities/contributing-to-open-source/
 
 Basically it's about:
 
-	1. If applicable create an issue
-	2. Fork the repo
+	1. If applicable create a [Jira issue](https://issues.jenkins-ci.org/browse/JENKINS/component/18134)
+	2. [Fork](https://github.com/jesperps/delivery-pipeline-plugin/edit/contributionsguide/README.md#fork-destination-box) the repo
 	3. Do contributions
 	4. Add as much unit testing as possible to the contribution, this will make the code much more easy to maintain
 	5. Make sure to add the Jira issue number in the commit message together with a descriptive
